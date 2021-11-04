@@ -16,14 +16,16 @@ Here are some ideas to get you started:
 -->
 # Voxstructor
 ## Voxstructor: Voice Reconstruction from Voiceprint
+This repository contains implementation of the models, schemes, and experiments described in the paper [Voxstructor Paper](Voxstructor_ISC21_paper.pdf).
+Our paper wins Best Paper Award in [ISC2021](https://isc2021.petra.ac.id/)
+
 Applications of Voxstructor:
 ![Applications of Voxstructor](images/overview.jpg)
 
 Overview of Voxstructor:
 ![Overview of Voxstructor](images/voxstructor.jpg)
 
-This repository contains implementation of the models, schemes, and experiments described in the paper [Voxstructor Paper](Voxstructor_ISC21_paper.pdf).
-Our paper wins Best Paper Award in [ISC2021](https://isc2021.petra.ac.id/)
+
 ### Abstract
 
 With the rapid development of machine learning technologies, voiceprint has become widely used as a personal identifier in daily life. 
