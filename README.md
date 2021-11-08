@@ -42,7 +42,7 @@ Our study not only demonstrates the need for protection of voiceprint templates 
 ### How to Run the Model
 
 The required Python version is >= 3.7.
-The Pytorch version we used in this project is 
+The Pytorch version we used in this project is 1.6.0.
 
 ### Cite Us
 
@@ -52,6 +52,6 @@ The Pytorch version we used in this project is
       author={Panpan Lu, Qi Li, Hui Zhu, Giuliano Sovernigo and Xiaodong Lin},
       year={2021},
       booktitle = {24th Information Security Conference, ISC 2021, November 10-12, 2021, Bali, Indonesia},
-     pages     = {1--22},
+      pages     = {1--22},
 }
 ```
