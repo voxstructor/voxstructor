@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 -->
 # Voxstructor
 ## Voxstructor: Voice Reconstruction from Voiceprint
-This repository contains implementation of the models, schemes, and experiments described in the paper [Voxstructor Paper](Voxstructor_ISC21_paper.pdf).
-Our paper wins Best Paper Award in [ISC2021](https://isc2021.petra.ac.id/)
+This repository contains implementation of the models, schemes, and experiments described in the paper [Voxstructor Paper](Voxstructor_ISC21_paper.pdf). It can be downloaded in this [link](https://link.springer.com/content/pdf/10.1007%2F978-3-030-91356-4_20.pdf).
+
+Our paper wins Best Paper Award in [ISC2021](https://isc2021.petra.ac.id/).
 
 Applications of Voxstructor:
 ![Applications of Voxstructor](images/overview.jpg)
