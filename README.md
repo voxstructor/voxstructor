@@ -63,3 +63,4 @@ abstract="With the rapid development of machine learning technologies, voiceprin
 isbn="978-3-030-91356-4"
 }
 ```
+Lu P., Li Q., Zhu H., Sovernigo G., Lin X. (2021) Voxstructor: Voice Reconstruction from Voiceprint. In: Liu J.K., Katsikas S., Meng W., Susilo W., Intan R. (eds) Information Security. ISC 2021. Lecture Notes in Computer Science, vol 13118. Springer, Cham. https://doi.org/10.1007/978-3-030-91356-4_20
